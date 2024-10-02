@@ -1,3 +1,4 @@
+THIS IS A FORK OF THE MAIN REPOSITORY OF CLANN, PLEASE REFER TO https://github.com/ChrisCreevey/clann FOR THE MOST UP-TO-DATE RELEASE
 
 	*********************************************************************
 	*                                                                   *
